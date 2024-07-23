@@ -12665,10 +12665,10 @@
         "repo": "Ori-Replication/obsidian-math-indicator-changer"
     },
     {
-        "id": "pdf-annotator",
-        "name": "Pdf Annotator",
-        "author": "Boninall",
-        "description": "Simple but powerful pdf annotator.",
-        "repo": "quorafind/obsidian-pdf-annotator"
+        "id": "quick-open",
+        "name": "Quick Open",
+        "author": "James Alexandre",
+        "description": "Quickly open items in modals using keyboard shortcuts",
+        "repo": "itsonlyjames/obsidian-quick-open"
     }
 ]
